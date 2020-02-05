@@ -6,6 +6,7 @@ lesson_key,group,title,url
 113,Stats,Exact Test of Goodness-of-Fit,/exact-test-of-goodness-of-fit/
 144,Stats,Flipping Coins and Other Things,/flipping-coins-and-other-things/
 180,Genomics,Genomic Variant Basics,/genomic-variant-basics/
+181,Genomics,Variant Annotation with ANNOVAR,/variant-annotation/
 153,Tools,Git for Individual Developers,/git-for-solo-users/
 150,HPC,High Performance Computing,/high-performance-computing/
 120,Stats,Introduction to Bayes's Theorem,/introduction-to-bayes-theorem/
